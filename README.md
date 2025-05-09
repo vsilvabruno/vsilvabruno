@@ -1,5 +1,3 @@
-### 💾 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 💾
-
 <table>
   <tr>
     <td valign="center"><a href="https://github.com/anuraghazra/github-readme-stats">
