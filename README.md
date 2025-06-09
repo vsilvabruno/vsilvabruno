@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=ffffff&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Bruno+VSilva;Junior+Full+Stack+Web+Developer;Web+Development+Freelancer" alt="Typing SVG" />
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/vsilvabruno])
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)]([#](https://www.github.com/vsilvabruno))
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vsilvabruno)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://www.github.com/vsilvabruno)
 
 I'm a passionate **Junior Full Stack Developer** focused on crafting responsive and user-first web experiences.
 
