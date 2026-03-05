@@ -36,7 +36,7 @@ Whether it's creating/optimizing a UI for performance or structuring a robust ba
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsilvabruno&theme=high-contrast&bg_color=0E1116&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vsilvabruno&theme=high-contrast&bg_color=0E1116&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
