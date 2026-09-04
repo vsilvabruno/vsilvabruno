@@ -8,6 +8,7 @@ Whether it's creating/optimizing a UI for performance or structuring a robust ba
 - 🧩 Problem solver at heart, with a drive to build intuitive, maintainable web solutions;  
 - 🤝 Open to freelance opportunities and collaboration on real-world projects.
 
+
 ## 💻 Tech Stack
 
 ### Frontend
