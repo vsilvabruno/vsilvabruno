@@ -1,5 +1,4 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=8f99aa&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Bruno+VSilva;Full+Stack+Web+Developer;Web+Development+Freelancer" alt="Typing SVG" />
-
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://www.github.com/vsilvabruno)
 
 I'm a passionate **Full Stack Developer** focused on crafting responsive and user-first web experiences.
