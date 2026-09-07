@@ -1,14 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=8f99aa&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Bruno+VSilva;Full+Stack+Web+Developer;Web+Development+Freelancer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=8f99aa&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Bruno;Full+Stack+Web+Dev;Web+Development+Freelancer" alt="Typing SVG" />
 
-I'm a passionate **Full Stack Developer** focused on crafting responsive and user-first web experiences.
+Every bio I write sounds like AI slop, so I’ll just say I like to code.
 
-Whether it's creating/optimizing a UI for performance or structuring a robust backend, I enjoy turning ideas into clean, functional code.
-
-- 💡 Enthusiastic about continuous learning and staying updated with the latest development practices; 
-- 🧩 Problem solver at heart, with a drive to build intuitive, maintainable web solutions;  
-- 🤝 Open to freelance opportunities and collaboration on real-world projects.
-
-## 💻 Tech Stack
+---
 
 ### Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)](#)
