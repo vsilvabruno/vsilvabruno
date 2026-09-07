@@ -2,8 +2,6 @@
 
 Every bio I write sounds like AI slop, so I’ll just say I like to code.
 
----
-
 ### Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-639?logo=css&logoColor=white&style=for-the-badge)](#)
