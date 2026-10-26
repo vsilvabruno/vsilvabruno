@@ -18,6 +18,10 @@ Every bio I write sounds like AI slop, so I’ll just say I like to code.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)](#)
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=vsilvabruno&theme=transparent&hide_border=true&ring=8f99aa&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8f99aa" height="150" />
+</div>
+
 ---
 
 <div align="center">
